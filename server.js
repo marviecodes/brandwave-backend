@@ -31,6 +31,3 @@ app.use("/api/v1/users", userRoutes);
 app.use("/api/v1/auth", authRoutes);
 
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
-
-// 1096395783296-jufa957gjpq2k1e4a86q0vhegulnjan5.apps.googleusercontent.com
-// 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    - secret
